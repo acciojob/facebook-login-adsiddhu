@@ -25,7 +25,7 @@ form{
 
 input , #email , #password{
 /* 	border:1px solid rgb(204, 204, 204); */
-	padding:10px;
+/* 	padding:10px; */
 }
 
 button{
