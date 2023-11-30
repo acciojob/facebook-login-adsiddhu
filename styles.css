@@ -18,7 +18,7 @@ form{
 	width:300px;
 	padding:20px;
 /* 	border-radius:5px; */
-	box-shadow:rgb(204, 204, 204) 0px 0px 10px 0px;
+/* 	box-shadow:rgb(204, 204, 204) 0px 0px 10px 0px; */
 	flex-direction:column;
 	gap:10px;
 }
